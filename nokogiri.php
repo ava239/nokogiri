@@ -93,7 +93,7 @@ final class nokogiri implements IteratorAggregate
         return $this->nokogiri->getErrors();
     }
 
-    public function getIterator()
+    public function getIterator(): Traversable
     {
         $result = $this->toArray();
 

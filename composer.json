@@ -1,8 +1,8 @@
 {
-    "name": "olamedia/nokogiri",
+    "name": "ava239/nokogiri",
     "version": "2.0.2",
     "type": "library",
-    "description": "HTML Parser",
+    "description": "fork of HTML Parser at http://github.com/olamedia/nokogiri",
     "keywords": ["html","parse","parser"],
     "homepage": "http://github.com/olamedia/nokogiri",
     "license": "MIT",
